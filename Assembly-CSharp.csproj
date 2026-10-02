@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AbrirEnlace.cs" />
     <Compile Include="Assets\Scripts\ControladorMenu.cs" />
+    <Compile Include="Assets\Scripts\ArrastrarSprite.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
